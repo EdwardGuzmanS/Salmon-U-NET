@@ -31,7 +31,7 @@ El modelo propuesto se basa en la arquitectura **U-Net**, una red neuronal convo
 - Salida:
   - Un solo canal correspondiente a la máscara binaria de la herida
 
-  ![Texto alternativo](/home/edu/Documentos/UNet/Propuesta_final1.png)
+  ![Estructura U-Net](/images/Propuesta_final1.png)
 
 
 Esta arquitectura permite un equilibrio adecuado entre **precisión**, **robustez** y **eficiencia computacional**, siendo especialmente apropiada para aplicaciones con recursos limitados.
