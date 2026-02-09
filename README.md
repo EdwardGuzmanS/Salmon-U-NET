@@ -45,8 +45,8 @@ Esta arquitectura permite un equilibrio adecuado entre **precisión**, **robuste
 - Label Studio
 - Google Colab (GPU)
 
-📊 Resultados y Precisión del Modelo
+## 📊 Resultados y Precisión del Modelo
 
 El desempeño del modelo de segmentación semántica fue evaluado utilizando el Índice de Jaccard (Intersection over Union, IoU), métrica estándar para este tipo de problemas. Los resultados obtenidos muestran que la red neuronal U-Net alcanza una precisión superior al 90% en términos de IoU, evidenciando una alta concordancia entre las máscaras predichas y las segmentaciones de referencia (Ground Truth).
 
-  ![Resultados U-Net](/images/hibrido.pdf)
+  ![Resultados U-Net](/images/resultados.png)
