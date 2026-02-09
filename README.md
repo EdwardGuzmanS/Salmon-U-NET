@@ -8,9 +8,7 @@ El foco principal del proyecto es la **segmentación automática de heridas** pr
 
 ---
 
-## 🎯 Objetivos
-
-### Objetivo General
+## 🎯 Objetivo
 
 Desarrollar un modelo de segmentación semántica basado en la arquitectura **U-Net** que permita identificar automáticamente regiones de heridas en imágenes de salmón del Atlántico, mejorando la precisión y consistencia respecto a métodos clásicos de segmentación.
 
@@ -32,6 +30,9 @@ El modelo propuesto se basa en la arquitectura **U-Net**, una red neuronal convo
   - Batch Normalization posterior a cada convolución
 - Salida:
   - Un solo canal correspondiente a la máscara binaria de la herida
+
+  ![Texto alternativo](/home/edu/Documentos/UNet/Propuesta_final1.png)
+
 
 Esta arquitectura permite un equilibrio adecuado entre **precisión**, **robustez** y **eficiencia computacional**, siendo especialmente apropiada para aplicaciones con recursos limitados.
 
